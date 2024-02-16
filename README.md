@@ -8,7 +8,6 @@ Welcome to my skills portfolio! This repository serves as a showcase of my vario
 - [Skills](#skills)
 - [Projects](#projects)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -71,6 +70,4 @@ I have worked on various projects that demonstrate my skills and expertise in so
 
 Feedback and contributions to improve this portfolio are welcome! If you have suggestions or ideas for enhancing this repository, feel free to submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution of the code.
